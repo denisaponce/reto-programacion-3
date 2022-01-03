@@ -1,6 +1,6 @@
-//2. Altura n: while
-//Se ingresan un conjunto de n alturas de personas por teclado. 
-//Mostrar la altura promedio de las personas.
+/*   2. Altura n: while
+* Se ingresan un conjunto de n alturas de personas por teclado. 
+* Mostrar la altura promedio de las personas.*/
 
 const cantAlturas = parseInt(prompt('Ingrese alturas'));
 let alturasPromedio = 0;
